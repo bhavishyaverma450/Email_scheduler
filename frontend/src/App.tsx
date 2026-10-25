@@ -182,7 +182,7 @@ function App() {
         })
       );
       setEmails((previous) => [
-        ...newEmails,
+        ...newEmail,
         ...previous,
       ]);
 
