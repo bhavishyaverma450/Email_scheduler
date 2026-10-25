@@ -3,6 +3,9 @@
 
 A web application for importing email recipients, composing messages, and scheduling emails through a dashboard.
 
+##Live 
+###Frontend:- https://email-scheduler-1zddqa4wd-bhavishyaver50-9839s-projects.vercel.app/
+
 ## Screenshots
 
 ### 1. Email Scheduler Dashboard
